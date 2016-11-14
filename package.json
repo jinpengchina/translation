@@ -1,0 +1,22 @@
+{
+  "name": "t",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "t": "bin/trans.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "color-log": "git+https://github.com/jkom-cloud/color-log.git",
+    "commander": "^2.9.0",
+    "request": "^2.78.0",
+    "utf8": "^2.1.2"
+  }
+}
