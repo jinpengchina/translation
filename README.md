@@ -1,4 +1,4 @@
-# t
+# translation
 translation by baidu fanyi api
 
 # usage
